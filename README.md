@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Favour Bode! 👋<br><br>A passionate Software Engineer and Front-End Developer who loves turning ideas into real-world products. 🚀<br><br>Currently exploring ✨ advanced Flutter animations, React performance optimization, and Firebase backend magic.
-<br><br>Built projects like a Christian music streaming app (Harmony Hub 🎶), an Airbnb clone 🏡, custom system tools in C 🖥️, and responsive portfolio sites 🌐.<br><br>Graduated from the ALX Software Engineering Program 🎓, trained in full-stack development, algorithms, and real-world engineering.<br><br>Fun facts:<br><br>I dual-boot Linux 🐧 (yes, I enjoy tweaking Arch Linux configs!)
+Hi there, I'm Favour Bode! 👋<br><br>A passionate Software Engineer and Front-End Developer who loves turning ideas into real-world products. <br><br>Graduated from the ALX Software Engineering Program 🎓, trained in full-stack development, algorithms, and real-world engineering.<br><br>Fun facts:<br><br>I dual-boot Linux 🐧 (yes, I enjoy tweaking Arch Linux configs!)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bodefavour&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
